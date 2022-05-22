@@ -14,6 +14,8 @@
 |:--    |:--:    |
 | [Segunda Tech - Curso de Programação Funcional em Clojure](https://segundatech.teachable.com/p/clojure-introducao-a-programacao-funcional) | 🇧🇷 | 
 | [Alura - Trilha de Clojure](https://www.alura.com.br/formacao-clojure) | 🇧🇷 | 
+| [Clojure Básico](https://www.youtube.com/playlist?list=PLcjDvROHY58MlqcAU7d0fYhAJQ-p-dMp6) | 🇧🇷 |
+| [Pedestal e Component](https://www.youtube.com/playlist?list=PLcjDvROHY58NpVqhOyafHL8iTmGGDT9DZ) | 🇧🇷 |
 
 ### Prática
 | Nome  | Idioma | 
