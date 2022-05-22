@@ -41,3 +41,4 @@
 
 ### Listas de Links
 - [Comunidade Clojure Brasil](https://github.com/clj-br)
+- [Building Nubank](https://www.youtube.com/c/NubankOntheStage)
