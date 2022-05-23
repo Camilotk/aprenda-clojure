@@ -2,7 +2,7 @@
 
 ## Material para aprender Clojure
 
-### [IDE online](https://sharplab.io/#v2:DYLgZgzgNALiBOBXAdlAJiA1AHwA7wEtkYxkACAIkB4NwEH2Kg==)
+### [IDE online](https://www.jdoodle.com/execute-clojure-online/)
 
 ### Cheatsheets
 | Nome  | Idioma | 
