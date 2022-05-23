@@ -26,6 +26,7 @@
 | Nome  | Idioma | 
 |:--    |:--:    |
 | [Exercism on Clojure](https://exercism.org/tracks/clojure) | 🇺🇸 | 
+| [4Clojure 4ever](https://4clojure.oxal.org/) | 🇺🇸 |
 | [Clojure Koans](http://clojurekoans.com/) | 🇺🇸 |
 
 ### Livros
