@@ -9,7 +9,7 @@
 |:--    |:--:    |
 | [Clojure Cheat Sheet](https://clojure.org/api/cheatsheet) | 🇺🇸 | 
 
-### Teoria
+### Cursos / Video-aulas / Vídeos
 | Nome  | Pago | Idioma | 
 |:--    |:--:    | :--:    |
 | [Segunda Tech - Curso de Programação Funcional em Clojure](https://segundatech.teachable.com/p/clojure-introducao-a-programacao-funcional) | Grátis | 🇧🇷 | 
