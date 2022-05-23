@@ -45,6 +45,15 @@
 |:--    |:--:     | :--:   |  :--:   | 
 | [Vale a pena Clojure?](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html) | DEV na Estrada | 142 | 🇧🇷 | 
 
+## Ferramentas Úteis
+| Nome  | O que faz? | 
+|:--    |:--:     | :--:   |  :--:   | 
+| [leiningen](https://leiningen.org/) | Gerenciador de Dependências e ferramenta de build   |
+| [babashka](https://github.com/babashka/babashka) | Ambiente de scripting em Clojure   |
+| [cljstyle](https://github.com/greglook/cljstyle) | Ferramenta de formatação de Código |
+| [clj-kondo](https://github.com/clj-kondo/clj-kondo) | Ferramenta de análise estática (erros/incosistências). |
+
+
 ### Listas de Links
 - [Comunidade Clojure Brasil](https://github.com/clj-br)
 - [Building Nubank](https://www.youtube.com/c/NubankOntheStage)
