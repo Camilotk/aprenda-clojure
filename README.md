@@ -1,4 +1,4 @@
-# Apenda Clojure
+# Aprenda Clojure
 
 ## Material para aprender Clojure
 
