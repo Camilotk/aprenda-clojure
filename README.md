@@ -47,6 +47,7 @@
 ### Podcasts
 | Nome  | Podcast |  Nº |  Idioma | 
 |:--    |:--:     | :--:   |  :--:   | 
+| [Tecnologias no Nubank](https://www.hipsters.tech/tecnologias-no-nubank-hipsters-01/) | Hipsters | 1 | 🇧🇷 |
 | [Vale a pena Clojure?](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html) | DEV na Estrada | 142 | 🇧🇷 | 
 
 ## Ferramentas Úteis
