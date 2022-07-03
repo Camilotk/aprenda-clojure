@@ -18,6 +18,7 @@
 | [Programação funcional básica em Clojure](https://www.youtube.com/playlist?list=PLzehOqhpwpxgbqNbz4y8vj5QYRfdflbz1) | Grátis | 🇧🇷 |
 | [Alura - Trilha de Clojure](https://www.alura.com.br/formacao-clojure) | Pago | 🇧🇷 | 
 | [Lambda Island](https://lambdaisland.com/) | Grátis  | 🇺🇸 |
+| [Animated Clojure](https://ourcodestories.com/markm208/Playlist/4) | Grátis  | 🇺🇸 |
 | [Eric Normand Courses](https://ericnormand.podia.com/) | Pago | 🇺🇸 |
 | [ClojureStream](https://clojure.stream/#courses) | Pago | 🇺🇸 |
 
