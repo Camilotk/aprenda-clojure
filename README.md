@@ -4,10 +4,11 @@
 
 ### [IDE online](https://www.jdoodle.com/execute-clojure-online/)
 
-### Cheatsheets
+### Cheatsheets, Style Guides...
 | Nome  | Idioma | 
 |:--    |:--:    |
-| [Clojure Cheat Sheet](https://clojure.org/api/cheatsheet) | 🇺🇸 | 
+| [Clojure Cheat Sheet](https://clojure.org/api/cheatsheet) | 🇺🇸 |
+| [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) | 🇺🇸 | 
 
 ### Cursos / Video-aulas / Vídeos
 | Nome  | Pago | Idioma | 
