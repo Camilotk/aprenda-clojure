@@ -67,3 +67,4 @@
 ### Listas de Links
 - [Comunidade Clojure Brasil](https://github.com/clj-br)
 - [Building Nubank](https://www.youtube.com/c/NubankOntheStage)
+- [Vagas de Clojure](https://github.com/clj-br/vagas)
