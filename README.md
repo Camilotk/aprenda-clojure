@@ -16,6 +16,7 @@
 | [Segunda Tech - Curso de Programação Funcional em Clojure](https://segundatech.teachable.com/p/clojure-introducao-a-programacao-funcional) | Grátis | 🇧🇷 | 
 | [Clojure Básico](https://www.youtube.com/playlist?list=PLcjDvROHY58MlqcAU7d0fYhAJQ-p-dMp6) | Grátis | 🇧🇷 |
 | [Pedestal e Component](https://www.youtube.com/playlist?list=PLcjDvROHY58NpVqhOyafHL8iTmGGDT9DZ) | Grátis | 🇧🇷 |
+| [Pedestal com Clojure](https://www.youtube.com/playlist?list=PL39juNCZuUgwBV0big8hM4GR7gowZx0AY) | Grátis | 🇧🇷 |
 | [Programação funcional básica em Clojure](https://www.youtube.com/playlist?list=PLzehOqhpwpxgbqNbz4y8vj5QYRfdflbz1) | Grátis | 🇧🇷 |
 | [Alura - Trilha de Clojure](https://www.alura.com.br/formacao-clojure) | Pago | 🇧🇷 | 
 | [Lambda Island](https://lambdaisland.com/) | Grátis  | 🇺🇸 |
