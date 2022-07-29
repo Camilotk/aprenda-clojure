@@ -46,6 +46,7 @@
 | [A Essência do LISP](https://youtu.be/j3FEFuoVN5c) | [Sophia Velten](https://github.com/sovelten) | 🇧🇷 | 
 | [Introdução ao LISP](https://www.youtube.com/watch?v=IIp9YaXRHVY) | [Laura Viglioni](https://github.com/Viglioni) | 🇧🇷 | 
 | [A arte da simplicidade com Clojure](https://www.youtube.com/watch?v=_kGwRVuH6mU) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
+| [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 🇧🇷 |
 | [Paralelismo em Clojure](https://www.youtube.com/watch?v=b7cbPjsYUYY) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 | 
 
 ### Podcasts
