@@ -21,6 +21,7 @@
 | [Alura - Trilha de Clojure](https://www.alura.com.br/formacao-clojure) | Pago | 🇧🇷 | 
 | [Lambda Island](https://lambdaisland.com/) | Grátis  | 🇺🇸 |
 | [Animated Clojure](https://ourcodestories.com/markm208/Playlist/4) | Grátis  | 🇺🇸 |
+| [HP Indigo - Clojure course](https://cycognito.github.io/clojure-course/site/) | Grátis  | 🇺🇸 |
 | [Eric Normand Courses](https://ericnormand.podia.com/) | Pago | 🇺🇸 |
 | [ClojureStream](https://clojure.stream/#courses) | Pago | 🇺🇸 |
 
