@@ -33,6 +33,7 @@
 | [4Clojure 4ever](https://4clojure.oxal.org/) | 🇺🇸 |
 | [Clojure Koans](http://clojurekoans.com/) | 🇺🇸 |
 | [Casting Spells with Clojure](https://www.lisperati.com/casting.html) | 🇺🇸 |
+| [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas) | 🇺🇸 |
 
 ### Livros
 | Nome  | Autor | Idioma | 
