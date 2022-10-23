@@ -11,7 +11,7 @@
 | [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) | 🇺🇸 | 
 
 ### Cursos / Video-aulas / Vídeos
-| Nome  | Pago | Idioma | 
+| Nome  | Preço | Idioma | 
 |:--    |:--:    | :--:    |
 | [Segunda Tech - Curso de Programação Funcional em Clojure](https://segundatech.teachable.com/p/clojure-introducao-a-programacao-funcional) | Grátis | 🇧🇷 | 
 | [Clojure Básico](https://www.youtube.com/playlist?list=PLcjDvROHY58MlqcAU7d0fYhAJQ-p-dMp6) | Grátis | 🇧🇷 |
