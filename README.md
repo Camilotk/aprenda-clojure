@@ -60,7 +60,7 @@
 | [Tecnologias no Nubank: 3 anos depois](https://www.hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/) | Hipsters | 150 | 🇧🇷 |
 | [Programação Funcional (e (clojure))](https://www.hipsters.tech/programacao-funcional-e-clojure-hipsters-158/) | Hipsters | 158 | 🇧🇷 | 
 | [Vale a pena Clojure?](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html) | DEV na Estrada | 142 | 🇧🇷 | 
-| [Programação Funcional](https://youtu.be/TjuLQZsMatw) | Alura Live | 15 | 🇧🇷 | 
+| [Programação Funcional (Java -> Clojure)](https://youtu.be/TjuLQZsMatw) | Alura Live | 15 | 🇧🇷 | 
 
 
 ## Ferramentas Úteis
