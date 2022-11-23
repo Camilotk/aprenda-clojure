@@ -14,6 +14,7 @@
 | Nome  | Pago | Idioma | 
 |:--    |:--:    | :--:    |
 | [Segunda Tech - Curso de Programação Funcional em Clojure](https://segundatech.teachable.com/p/clojure-introducao-a-programacao-funcional) | Grátis | 🇧🇷 | 
+| [Curso de Clojure](https://www.youtube.com/playlist?list=PLWd81WfLMI-fNPUkjddIHB_taxElX3qMr) | Grátis | 🇧🇷 |
 | [Clojure Básico](https://www.youtube.com/playlist?list=PLcjDvROHY58MlqcAU7d0fYhAJQ-p-dMp6) | Grátis | 🇧🇷 |
 | [Pedestal e Component](https://www.youtube.com/playlist?list=PLcjDvROHY58NpVqhOyafHL8iTmGGDT9DZ) | Grátis | 🇧🇷 |
 | [Pedestal com Clojure](https://www.youtube.com/playlist?list=PL39juNCZuUgwBV0big8hM4GR7gowZx0AY) | Grátis | 🇧🇷 |
