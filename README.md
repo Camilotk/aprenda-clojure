@@ -62,6 +62,7 @@
 | [Programação Funcional (e (clojure))](https://www.hipsters.tech/programacao-funcional-e-clojure-hipsters-158/) | Hipsters | 158 | 🇧🇷 | 
 | [Vale a pena Clojure?](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html) | DEV na Estrada | 142 | 🇧🇷 | 
 | [Programação Funcional (Java/Clojure)](https://youtu.be/TjuLQZsMatw) | Alura Live | 15 | 🇧🇷 | 
+| [Clojure com Camilo Cunha de Azevedo e Márcio Lopes de Faria](https://anchor.fm/elixiremfoco/episodes/23--Clojure-com-Camilo-Cunha-de-Azevedo-e-Mrcio-Lopes-de-Faria-e1u1kjh) | Elixir em Foco | 23 | 🇧🇷 | 
 
 
 ## Ferramentas Úteis
