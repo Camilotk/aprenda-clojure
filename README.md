@@ -78,4 +78,4 @@
 - [Comunidade Clojure Brasil](https://github.com/clj-br)
 - [Building Nubank](https://www.youtube.com/c/NubankOntheStage)
 - [Vagas de Clojure](https://github.com/clj-br/vagas)
-- [Especial Clojure 15 anos Nubank](https://blog.nubank.com.br/clojure15anos/)
+- [Especial da Nubank sobre os 15 anos de Clojure com o time da Cognitech](https://blog.nubank.com.br/clojure15anos/)
