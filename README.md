@@ -54,6 +54,8 @@
 | [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 🇧🇷 |
 | [Paralelismo em Clojure](https://www.youtube.com/watch?v=b7cbPjsYUYY) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 | 
 | [Clojure é um Java melhor que Java](https://youtu.be/ruZwYDSaq1M) | [Ana Bastos](https://github.com/anabastos) | 🇧🇷 | 
+| [Repl Driven Development: Desenhando com Clojure](https://www.youtube.com/live/rvFDmqSTh2I) | [Gustavo Kishima](https://github.com/gukiboy) | 🇧🇷 | 
+
 ### Podcasts
 | Nome  | Podcast |  Nº |  Idioma | 
 |:--    |:--:     | :--:   |  :--:   | 
