@@ -36,14 +36,14 @@
 | [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas) | 🇺🇸 |
 
 ### Livros
-| Nome  | Autor | Idioma | 
-|:--    |:--:    | :--:  | 
-| [Clojure for the Brave and True](https://www.braveclojure.com/) | [Daniel Higginbotham](https://twitter.com/nonrecursive) | 🇺🇸 | 
-| [Clojure Book](https://clojure-book.gitlab.io/) | [Karthikeyan A K](https://gitlab.com/mindaslab) | 🇺🇸 | 
-| [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://www.amazon.com.br/gp/product/1680503006/) | [Russ Olsen](https://twitter.com/russolsen) | 🇺🇸 | 
-| [Programming Clojure](https://www.amazon.com.br/Programming-Clojure-3e-Alex-Miller/dp/1680502468/) | [Alex Miller](https://twitter.com/puredanger) | 🇺🇸 | 
-| [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | [Ben Vandgrift](https://twitter.com/bvandgrift) | 🇺🇸 | 
-| [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://twitter.com/fogus) | 🇺🇸 | 
+| Nome  | Autor | Gratuito para Ler Online | Idioma | 
+|:--    |:--:   | :--: | :--:  | 
+| [Clojure for the Brave and True](https://www.braveclojure.com/) | [Daniel Higginbotham](https://twitter.com/nonrecursive) | Sim | 🇺🇸 | 
+| [Clojure Book](https://clojure-book.gitlab.io/) | [Karthikeyan A K](https://gitlab.com/mindaslab) | Sim | 🇺🇸 | 
+| [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://www.amazon.com.br/gp/product/1680503006/) | [Russ Olsen](https://twitter.com/russolsen) | Não | 🇺🇸 | 
+| [Programming Clojure](https://www.amazon.com.br/Programming-Clojure-3e-Alex-Miller/dp/1680502468/) | [Alex Miller](https://twitter.com/puredanger) | Não |  🇺🇸 | 
+| [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | [Ben Vandgrift](https://twitter.com/bvandgrift) | Não | 🇺🇸 | 
+| [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://twitter.com/fogus) | Não | 🇺🇸 | 
 
 ### Palestras
 | Nome  | Palestrante | Idioma | 
