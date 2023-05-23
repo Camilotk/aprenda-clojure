@@ -44,6 +44,8 @@
 | [Programming Clojure](https://www.amazon.com.br/Programming-Clojure-3e-Alex-Miller/dp/1680502468/) | [Alex Miller](https://twitter.com/puredanger) | Não |  🇺🇸 | 
 | [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | [Ben Vandgrift](https://twitter.com/bvandgrift) | Não | 🇺🇸 | 
 | [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://twitter.com/fogus) | Não | 🇺🇸 | 
+| [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | [Gregório Melo](https://www.linkedin.com/in/gregoriomelo) | Não | br | 
+
 
 ### Palestras
 | Nome  | Palestrante | Idioma | 
