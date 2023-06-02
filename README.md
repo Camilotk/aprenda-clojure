@@ -46,7 +46,6 @@
 | [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://twitter.com/fogus) | Não | 🇺🇸 | 
 | [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | [Gregório Melo](https://www.linkedin.com/in/gregoriomelo) | Não | br | 
 
-
 ### Palestras
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
@@ -59,6 +58,8 @@
 | [Repl Driven Development: Desenhando com Clojure](https://www.youtube.com/live/rvFDmqSTh2I) | [Gustavo Kishima](https://github.com/gukiboy) | 🇧🇷 | 
 | [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 🇧🇷 |
 | [Paralelismo em Clojure](https://www.youtube.com/watch?v=b7cbPjsYUYY) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 | 
+| [clojure-lsp: uma ferramenta de linter para tudo](https://www.youtube.com/watch?v=d-sjGfQRyHY) | [Eric Dallo](https://github.com/ericdallo) | 🇧🇷 | 
+| [Desenvolvimento interativo com o REPL](https://www.youtube.com/live/ntRCK_2eP3U) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 | 
 
 ### Podcasts
 | Nome  | Podcast |  Nº |  Idioma | 
