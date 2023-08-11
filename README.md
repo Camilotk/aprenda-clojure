@@ -13,14 +13,14 @@
 ### Cursos / Video-aulas / Vídeos
 | Nome  | Pago | Idioma | 
 |:--    |:--:    | :--:    |
-| [Segunda Tech - Curso de Programação Funcional em Clojure](https://segundatech.teachable.com/p/clojure-introducao-a-programacao-funcional) | Grátis | 🇧🇷 | 
 | [Curso de Clojure](https://www.youtube.com/playlist?list=PLWd81WfLMI-fNPUkjddIHB_taxElX3qMr) | Grátis | 🇧🇷 |
 | [Clojure Básico](https://www.youtube.com/playlist?list=PLcjDvROHY58MlqcAU7d0fYhAJQ-p-dMp6) | Grátis | 🇧🇷 |
 | [Pedestal e Component](https://www.youtube.com/playlist?list=PLcjDvROHY58NpVqhOyafHL8iTmGGDT9DZ) | Grátis | 🇧🇷 |
 | [Pedestal com Clojure](https://www.youtube.com/playlist?list=PL39juNCZuUgwBV0big8hM4GR7gowZx0AY) | Grátis | 🇧🇷 |
 | [Programação funcional básica em Clojure](https://www.youtube.com/playlist?list=PLzehOqhpwpxgbqNbz4y8vj5QYRfdflbz1) | Grátis | 🇧🇷 |
 | [Alura - Trilha de Clojure](https://www.alura.com.br/formacao-clojure) | Pago | 🇧🇷 | 
-| [Lambda Island](https://lambdaisland.com/) | Grátis[¹](https://lambdaisland.com/blog/2022-04-25-making-lambda-island-free) | 🇺🇸 |
+| [Clojure: Introdução à Programação Funcional](https://www.udemy.com/course/clojure-introducao-a-programacao-funcional/) | Pago[¹](https://twitter.com/marciofrayze/status/1683843555926630402) | 🇧🇷 | 
+| [Lambda Island](https://lambdaisland.com/) | Grátis[²](https://lambdaisland.com/blog/2022-04-25-making-lambda-island-free) | 🇺🇸 |
 | [Animated Clojure](https://ourcodestories.com/markm208/Playlist/4) | Grátis  | 🇺🇸 |
 | [HP Indigo - Clojure course](https://cycognito.github.io/clojure-course/site/) | Grátis  | 🇺🇸 |
 | [Eric Normand Courses](https://ericnormand.podia.com/) | Pago | 🇺🇸 |
