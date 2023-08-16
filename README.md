@@ -61,6 +61,7 @@
 | [clojure-lsp: uma ferramenta de linter para tudo](https://www.youtube.com/watch?v=d-sjGfQRyHY) | [Eric Dallo](https://github.com/ericdallo) | 🇧🇷 | 
 | [Desenvolvimento interativo com o REPL](https://www.youtube.com/live/ntRCK_2eP3U) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 | 
 | [Clojure (Script, principalmente) com o editor Pulsar](https://www.youtube.com/watch?v=uZ__RWceTSA) | [Maurício Szabo](https://github.com/mauricioszabo) | 🇧🇷 | 
+| [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 🇧🇷 | 
 
 ### Podcasts
 | Nome  | Podcast |  Nº |  Idioma | 
