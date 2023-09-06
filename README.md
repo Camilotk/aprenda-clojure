@@ -21,7 +21,7 @@
 | [Alura - Trilha de Clojure](https://www.alura.com.br/formacao-clojure) | Pago | 🇧🇷 | 
 | [Clojure: Introdução à Programação Funcional](https://www.udemy.com/course/clojure-introducao-a-programacao-funcional/) | Pago[¹](https://twitter.com/marciofrayze/status/1683843555926630402) | 🇧🇷 | 
 | [Lambda Island](https://lambdaisland.com/) | Grátis[²](https://lambdaisland.com/blog/2022-04-25-making-lambda-island-free) | 🇺🇸 |
-| [Animated Clojure](https://ourcodestories.com/markm208/Playlist/4) | Grátis  | 🇺🇸 |
+| [Animated Clojure](https://markm208.github.io/cljbook/) | Grátis  | 🇺🇸 |
 | [HP Indigo - Clojure course](https://cycognito.github.io/clojure-course/site/) | Grátis  | 🇺🇸 |
 | [Eric Normand Courses](https://ericnormand.podia.com/) | Pago | 🇺🇸 |
 | [ClojureStream](https://clojure.stream/#courses) | Pago | 🇺🇸 |
