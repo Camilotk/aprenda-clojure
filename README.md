@@ -25,6 +25,7 @@
 | [HP Indigo - Clojure course](https://cycognito.github.io/clojure-course/site/) | Grátis  | 🇺🇸 |
 | [Eric Normand Courses](https://ericnormand.podia.com/) | Pago | 🇺🇸 |
 | [ClojureStream](https://clojure.stream/#courses) | Pago | 🇺🇸 |
+| [Clojure for PROs](https://clojureforpros.com/) | Pago | 🇺🇸 |
 
 ### Prática
 | Nome  | Idioma | 
