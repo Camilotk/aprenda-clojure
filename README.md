@@ -19,8 +19,8 @@
 | [Pedestal com Clojure](https://www.youtube.com/playlist?list=PL39juNCZuUgwBV0big8hM4GR7gowZx0AY) | Grátis | 🇧🇷 |
 | [Programação funcional básica em Clojure](https://www.youtube.com/playlist?list=PLzehOqhpwpxgbqNbz4y8vj5QYRfdflbz1) | Grátis | 🇧🇷 |
 | [Alura - Trilha de Clojure](https://www.alura.com.br/formacao-clojure) | Pago | 🇧🇷 | 
-| [Clojure: Introdução à Programação Funcional](https://www.udemy.com/course/clojure-introducao-a-programacao-funcional/) | Pago[¹](https://twitter.com/marciofrayze/status/1683843555926630402) | Grátis | 🇧🇷 | 
-| [Playlist de Programação Funcional do Prof. Otávio Lemos](https://www.youtube.com/playlist?list=PLpJIjBkNnEt_AclkpsvdX_4YUbcks8wXJ) | 🇧🇷 | 
+| [Clojure: Introdução à Programação Funcional](https://www.udemy.com/course/clojure-introducao-a-programacao-funcional/) | Pago[¹](https://twitter.com/marciofrayze/status/1683843555926630402) | 🇧🇷 | 
+| [Playlist de Programação Funcional do Prof. Otávio Lemos](https://www.youtube.com/playlist?list=PLpJIjBkNnEt_AclkpsvdX_4YUbcks8wXJ) | Grátis | 🇧🇷 | 
 | [Lambda Island](https://lambdaisland.com/) | Grátis[²](https://lambdaisland.com/blog/2022-04-25-making-lambda-island-free) | 🇺🇸 |
 | [Animated Clojure](https://markm208.github.io/cljbook/) | Grátis  | 🇺🇸 |
 | [HP Indigo - Clojure course](https://cycognito.github.io/clojure-course/site/) | Grátis  | 🇺🇸 |
