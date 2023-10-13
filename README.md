@@ -75,9 +75,7 @@
 | [Tecnologias no Nubank: 3 anos depois](https://www.hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/) | Hipsters | 150 | 🇧🇷 |
 | [Programação Funcional (e (clojure))](https://www.hipsters.tech/programacao-funcional-e-clojure-hipsters-158/) | Hipsters | 158 | 🇧🇷 | 
 | [Vale a pena Clojure?](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html) | DEV na Estrada | 142 | 🇧🇷 | 
-| [Programação Funcional (Java/Clojure)](https://youtu.be/TjuLQZsMatw) | Alura Live | 15 | 🇧🇷 | 
 | [Clojure com Camilo Cunha de Azevedo e Márcio Lopes de Faria](https://anchor.fm/elixiremfoco/episodes/23--Clojure-com-Camilo-Cunha-de-Azevedo-e-Mrcio-Lopes-de-Faria-e1u1kjh) | Elixir em Foco | 23 | 🇧🇷 | 
-
 
 ## Ferramentas Úteis
 | Nome  | O que faz? | 
@@ -86,7 +84,6 @@
 | [babashka](https://github.com/babashka/babashka) | Ambiente de scripting em Clojure   |
 | [cljstyle](https://github.com/greglook/cljstyle) | Ferramenta de formatação de Código |
 | [clj-kondo](https://github.com/clj-kondo/clj-kondo) | Ferramenta de análise estática (erros/incosistências). |
-
 
 ### Listas de Links
 - [Comunidade Clojure Brasil](https://github.com/clj-br)
